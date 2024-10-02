@@ -16,3 +16,6 @@ Running the Application
     Configure the database settings in database.py.
 
     Run app.py
+![Capture](https://github.com/user-attachments/assets/2cae3191-dfab-42b6-b1ab-f31943040bbc)
+![Capture1](https://github.com/user-attachments/assets/4d4ffe6d-0440-47d3-87ad-021226cebf85)
+![Capture2](https://github.com/user-attachments/assets/4bea5c04-980e-46b5-9b1d-52d46ff587f4)
