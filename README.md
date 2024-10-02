@@ -1,5 +1,6 @@
 # stock_screener
 A desktop application built with Python and Tkinter for screening stocks, charting price data, and managing a watchlist.  This application fetches real-time stock data using the `yfinance` library and stores watchlist data in a MySQL database.
+
 Database Setup
 
     Create a MySQL database: Create a database named "stocks" (or change the database name in database.py).
