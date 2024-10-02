@@ -15,4 +15,4 @@ Running the Application
 
     Configure the database settings in database.py.
 
-    Run app.py: python app.py
+    Run app.py
